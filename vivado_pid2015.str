@@ -3298,3 +3298,4 @@ closeTask("Synthesis", "Synthesized Design", "DesignTask.NETLIST_PLANNING");
 // A (ck): Confirm Close: addNotify
 selectButton(RDIResource.BaseDialog_CANCEL, "Cancel"); // a (A)
 dismissDialog("Confirm Close"); // A (ck)
+// HMemoryUtils.trashcanNow. Engine heap size: 3,392 MB. GUI used memory: 133 MB. Current time: 10/30/20 8:13:13 PM CST
